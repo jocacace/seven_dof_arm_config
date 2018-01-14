@@ -1,5 +1,3 @@
-<?xml version="1.0" ?>
-
 <launch>
  # The planning and execution components of MoveIt! configured to 
  # publish the current configuration of the robot (simulated or real)
